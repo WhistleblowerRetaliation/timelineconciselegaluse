@@ -10,7 +10,7 @@ The materials are presented in a factual, court-ready format for use by:
 - human rights advocates  
 - public accountability and whistleblower protection groups  
 
-👉 [View Concise Legal Timeline](https://whistleblowerretaliation.github.io/timeline_legal_use/)  
+👉 [View Concise Legal Timeline](https://whistleblowerretaliation.github.io/timelineconciselegaluse/)  
 👉 [View Extended Timeline](https://whistleblowerretaliation.github.io/timelineextended/)
 
 ---
@@ -19,8 +19,8 @@ The materials are presented in a factual, court-ready format for use by:
 
 ### 📁 Core Materials
 
-- [Case_Background.md](Case_Background.md): Legal and factual background, methodology, source description  
-- [Public_Statement.md](Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
+- [Case_Background.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Case_Background.md): Legal and factual background, methodology, source description  
+- [Public_Statement.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
 - [timeline_concise_legal_use.html](https://whistleblowerretaliation.github.io/timeline_legal_use/): Concise legal-use timeline (neutral tone, source-linked, court-exhibit ready)  
 - [timeline_extended.html](https://whistleblowerretaliation.github.io/timelineextended/): Extended narrative version with expanded events and symbolic references
 
