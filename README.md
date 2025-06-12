@@ -21,8 +21,6 @@ The materials are presented in a factual, court-ready format for use by:
 
 - [Case_Background.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Case_Background.md): Legal and factual background, methodology, source description  
 - [Public_Statement.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
-- [timeline_concise_legal_use.html](https://whistleblowerretaliation.github.io/timeline_legal_use/): Concise legal-use timeline (neutral tone, source-linked, court-exhibit ready)  
-- [timeline_extended.html](https://whistleblowerretaliation.github.io/timelineextended/): Extended narrative version with expanded events and symbolic references
 
 ---
 
