@@ -21,7 +21,7 @@ The materials are presented in a factual, court-ready format for use by:
 
 - [Case_Background](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Case_Background.md): Legal and factual background, methodology, source description  
 - [Public_Statement](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
-- [Yu Chao Personal Rebuttal](link) — Yu Chao’s own statement and rebuttal addressing recent allegations and clarifying key facts from his perspective.
+- [Yu Chao Personal Statement](link) — Yu Chao’s own statement and rebuttal addressing recent allegations and clarifying key facts from his perspective.
 ---
 
 ## Why This Timeline Matters
