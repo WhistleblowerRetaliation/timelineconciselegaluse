@@ -19,8 +19,8 @@ The materials are presented in a factual, court-ready format for use by:
 
 ### 📁 Core Materials
 
-- [Case_Background.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Case_Background.md): Legal and factual background, methodology, source description  
-- [Public_Statement.md](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
+- [Case_Background](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Case_Background.md): Legal and factual background, methodology, source description  
+- [Public_Statement](https://github.com/WhistleblowerRetaliation/timelineconcise/blob/main/Public_Statement.md): Summary of retaliatory conduct, sequence, and legal significance  
 
 ---
 
